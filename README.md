@@ -3,7 +3,7 @@ Se realizó como parte de la calificación final en la materia Fundamentos de Ba
 ## Integrantes del proyecto:
  - Baños Mancilla Ilse Andrea
  - Hernández Vázquez Antonio Sebastián
- - Muabi Lara Alide- 315321971
+ - Muabi Lara Alide
  - Rivera Machuca Gabriel Eduardo
  - Sautto Ramírez Seldon
 
