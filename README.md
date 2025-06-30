@@ -12,3 +12,4 @@ creación de una Base de Datos para un Bazar en la Ciudad de México.
 
 ## Procedimiento:
 De manera usual se trabaja primero con el Modelo Lógico, luego el Modelo Relacional y finalmente se crea la Base de Datos y probándola. Esos pasos fueron utilizados en este proyecto.
+En la archivo de la carpeta Docs se escribió a detalle el procedimiento completo seguido durante este proyecto.
